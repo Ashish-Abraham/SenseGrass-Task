@@ -1,0 +1,29 @@
+Variety                     Code
+Grüner Veltliner            0
+Zinfandel                   1
+Tempranillo                 2
+Nebbiolo                    3
+Merlot                      4
+Sauvignon Blanc             5
+Chardonnay                  6
+Sparkling Blend             7
+Sangiovese                  8
+Pinot Noir                  9
+Rosé                        10
+Riesling                    11
+Malbec                      12
+Portuguese Red              13
+Red Blend                   14
+Syrah                       15
+Cabernet Sauvignon          16
+Gewürztraminer              17
+Bordeaux-style White Blend  18
+Champagne Blend             19
+Cabernet Franc              20
+Rhône-style Red Blend       21
+White Blend                 22
+Bordeaux-style Red Blend    23
+Pinot Gris                  24
+Portuguese White            25
+Gamay                       26
+Pinot Grigio                27
