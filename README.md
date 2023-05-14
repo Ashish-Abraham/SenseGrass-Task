@@ -13,3 +13,8 @@ python3 requests.py
   <img src="preview.png">
 </p>
 
+## ML Specs:
+- LightGBM Classifier
+- Accuracy: 0.7
+- Path: model_files/lgbm_model.zip
+
