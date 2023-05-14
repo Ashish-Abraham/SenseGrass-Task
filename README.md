@@ -1,1 +1,15 @@
 # SenseGrass-Task
+## How to use:
+### Run API
+```shell
+cd SenseGrass-Task
+python3 main.py
+```
+### Post Request
+```shell
+python3 requests.py
+```
+<p align="center">
+  <img src="preview.png">
+</p>
+
